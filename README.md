@@ -1,2 +1,2 @@
 # PictureBed
-My notes picture saved。
+My notes picture saved.
